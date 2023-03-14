@@ -20,7 +20,7 @@ jobs:
 
       - uses: actions/checkout@v3
         with:
-          repository: JinnLynn/genpac
+          repository: jackjyq/genpac
           path: genpac
 
       - uses: actions/checkout@v3
@@ -34,17 +34,15 @@ jobs:
 
       - run: |
           cd genpac
-          sed 's/from collections import Callable/from collections.abc import Callable/g' -i $(grep 'from collections import Callable' . -rIl)
           sudo python3 setup.py install
 
       - name: Update
         run: |
           set -x
 
-          genpac --pac-proxy "SOCKS5 127.0.0.1:1080" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.pac
-          sed '1,7d' -i gfwlist.pac
+          genpac --pac-proxy "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.js
 
-          git add gfwlist.pac
+          git add gfwlist.js
           git commit -m "[$(LANG=C date)] auto update" || exit 0
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
