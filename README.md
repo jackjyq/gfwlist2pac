@@ -1,11 +1,10 @@
+/**
+ * genpac 2.1.0 https://github.com/JinnLynn/genpac
+ * Generated: 2023-03-14 07:14:11
+ * GFWList Last-Modified: 2023-03-01 03:50:34
+ * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
+ */
+
 # gfwlist2pac
-Automatically convert gfwlist to pac everyday
 
-Just use https://raw.githubusercontent.com/petronny/gfwlist2pac/master/gfwlist.pac
-
-Proxys / CDNs:
-
-- jsDelivr: https://cdn.jsdelivr.net/gh/petronny/gfwlist2pac@master/gfwlist.pac
-- FastGit: https://raw.fastgit.org/petronny/gfwlist2pac/master/gfwlist.pac
-- GitHub Proxy: https://ghproxy.com/https://github.com/petronny/gfwlist2pac/blob/master/gfwlist.pac
-- 7ED SERVICE: https://raw.sevencdn.com/petronny/gfwlist2pac/master/gfwlist.pac
+Automatically convert gfwlist to pac.js file everyday
