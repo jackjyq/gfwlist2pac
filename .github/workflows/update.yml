@@ -43,9 +43,7 @@ jobs:
           genpac --pac-proxy "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.js
 
           git add gfwlist.js
-          git commit -m "[$(LANG=C date)] auto update" || exit 0
-
-          [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
+          git commit -m "[$(LANG=C date)] auto update"
 
       - name: Push changes
         uses: ad-m/github-push-action@master
