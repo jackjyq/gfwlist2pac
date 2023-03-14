@@ -47,4 +47,7 @@ jobs:
 
           [ -n "${{ secrets.READ_ONLY }}" ] && git show && exit 0
 
-          git push origin master
+      - name: Push changes
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
