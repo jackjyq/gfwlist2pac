@@ -15,37 +15,42 @@ jobs:
         with:
           python-version: '3.10'
 
-      - uses: actions/checkout@v3
+      - name: Checkout gfwlist2pac
+        uses: actions/checkout@v3
         with:
           persist-credentials: false # otherwise, the token used is the GITHUB_TOKEN, instead of your personal access token.
           fetch-depth: 0 # otherwise, there would be errors pushing refs to the destination repository.
 
-      - uses: actions/checkout@v3
+      - name: Checkout genpac
+        uses: actions/checkout@v3
         with:
           repository: jackjyq/genpac
           path: genpac
 
-      - uses: actions/checkout@v3
+      - name: Checkout gfwlist
+        uses: actions/checkout@v3
         with:
           repository: gfwlist/gfwlist
           path: gfwlist
 
-      - uses: petronny/git-config-user@master
+      - name: Config git user
+        uses: petronny/git-config-user@master
         with:
           path: .
 
-      - run: |
+      - name: Install genpac
+        run: |
           cd genpac
           sudo python3 setup.py install
 
-      - name: Update
+      - name: Update files
         run: |
           set -x
 
           genpac --pac-proxy "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.js
 
           head -n 4 gfwlist.js | tail -n 2 > header && tail -n +3 README.md > body && cat header body > README.md
-          git add gfwlist.js
+          git add gfwlist.js README.md
           git commit -m "[$(LANG=C date)] auto update"
 
       - name: Push changes
