@@ -43,7 +43,7 @@ jobs:
 
           genpac --pac-proxy "SOCKS5 127.0.0.1:1081; SOCKS 127.0.0.1:1081; DIRECT;" --gfwlist-url - --gfwlist-local gfwlist/gfwlist.txt -o gfwlist.js
 
-          head -n 6 gfwlist.js > header && tail -n +7 README.md > body && cat header body > README.md
+          head -n 4 gfwlist.js | tail -n 2 > header && tail -n +3 README.md > body && cat header body > README.md
           git add gfwlist.js
           git commit -m "[$(LANG=C date)] auto update"
 
