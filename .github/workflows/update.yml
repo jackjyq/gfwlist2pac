@@ -1,8 +1,8 @@
-name: Auto update
+name: Update gfwlist.js
 
 on:
   schedule:
-    - cron: '37 19 * * *'
+    - cron: '00 00 * * *'
   workflow_dispatch:
 
 jobs:
@@ -10,9 +10,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Install packages
-        run: |
-          sudo apt-get install openssh-client python3-setuptools
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
 
       - uses: actions/checkout@v3
         with:
