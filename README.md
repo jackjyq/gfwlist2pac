@@ -1,4 +1,4 @@
- * Generated: 2023-11-17 00:33:01
+ * Generated: 2023-11-18 00:32:00
  * GFWList Last-Modified: 2023-09-17 16:59:35
 # gfwlist2pac
 
