@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-06-01 00:37:22
- * GFWList Last-Modified: 2024-05-30 05:40:24
+ * Generated: 2024-06-02 00:37:36
+ * GFWList Last-Modified: 2024-06-01 15:27:48
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4186,6 +4186,7 @@ var rules = [
             "pythonic.life",
             "pytorch.org",
             "qanote.com",
+            "qbittorrent.org",
             "qgirl.com.tw",
             "qhigh.com",
             "qi-gong.me",
