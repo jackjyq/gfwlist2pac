@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-08-14 00:37:53
- * GFWList Last-Modified: 2024-08-04 01:26:19
+ * Generated: 2024-08-15 00:36:30
+ * GFWList Last-Modified: 2024-08-14 19:07:05
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4761,6 +4761,7 @@ var rules = [
             "storagenewsletter.com",
             "stories.google",
             "storify.com",
+            "storj.io",
             "storm.mg",
             "stormmediagroup.com",
             "stoweboyd.com",
@@ -5421,7 +5422,7 @@ var rules = [
             "us.to",
             "usacn.com",
             "usaip.eu",
-            "usc.edu",
+            "uscardforum.com",
             "uscnpm.org",
             "usembassy.gov",
             "usfk.mil",
