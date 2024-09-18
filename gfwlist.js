@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-09-17 00:33:39
- * GFWList Last-Modified: 2024-09-02 15:03:48
+ * Generated: 2024-09-18 00:40:09
+ * GFWList Last-Modified: 2024-09-17 15:45:49
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3952,6 +3952,7 @@ var rules = [
             "partypoker.com",
             "passion.com",
             "passiontimes.hk",
+            "passwords.google",
             "paste.ee",
             "pastebin.com",
             "pastie.org",
