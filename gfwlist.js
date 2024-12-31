@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-12-30 00:44:34
- * GFWList Last-Modified: 2024-10-07 15:39:43
+ * Generated: 2024-12-31 00:42:43
+ * GFWList Last-Modified: 2024-12-30 15:11:29
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -746,7 +746,8 @@ var rules = [
             "brookings.edu",
             "brucewang.net",
             "brutaltgp.com",
-            "bt2mag.com",
+            "bsky.app",
+            "bsky.social",
             "bt95.com",
             "btaia.com",
             "btbtav.com",
@@ -1269,6 +1270,7 @@ var rules = [
             "debug.com",
             "deck.ly",
             "decodet.co",
+            "deepai.org",
             "deepmind.com",
             "deezer.com",
             "definebabe.com",
@@ -1345,6 +1347,7 @@ var rules = [
             "dnssec.net",
             "dnvod.tv",
             "docker.com",
+            "docs.new",
             "doctorvoice.org",
             "documentingreality.com",
             "dogfartnetwork.com",
@@ -2405,16 +2408,12 @@ var rules = [
             "h528.com",
             "h5dm.com",
             "h5galgame.me",
-            "hacg.club",
-            "hacg.in",
-            "hacg.li",
-            "hacg.me",
-            "hacg.red",
             "hacken.cc",
             "hacker.org",
             "hackmd.io",
             "hackthatphone.net",
             "hahlo.com",
+            "haijiao.com",
             "hakkatv.org.tw",
             "handcraftedsoftware.org",
             "hanime.tv",
@@ -4513,6 +4512,7 @@ var rules = [
             "sharpdaily.tw",
             "shat-tibet.com",
             "shattered.io",
+            "sheets.new",
             "sheikyermami.com",
             "shellfire.de",
             "shemalez.com",
@@ -4605,6 +4605,7 @@ var rules = [
             "sleazydream.com",
             "slheng.com",
             "slickvpn.com",
+            "slides.new",
             "slideshare.net",
             "slime.com.tw",
             "slinkset.com",
@@ -4622,6 +4623,7 @@ var rules = [
             "smith.edu",
             "smyxy.org",
             "snapchat.com",
+            "snapseed.com",
             "snaptu.com",
             "sndcdn.com",
             "sneakme.net",
@@ -5582,6 +5584,7 @@ var rules = [
             "vporn.com",
             "vpser.net",
             "vraiesagesse.net",
+            "vrchat.com",
             "vrmtr.com",
             "vrsmash.com",
             "vs.com",
@@ -5687,6 +5690,7 @@ var rules = [
             "wha.la",
             "whatblocked.com",
             "whatbrowser.org",
+            "whats.new",
             "whatsapp.com",
             "whatsapp.net",
             "whatsonweibo.com",
