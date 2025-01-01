@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2024-12-31 00:42:43
- * GFWList Last-Modified: 2024-12-30 15:11:29
+ * Generated: 2025-01-01 00:48:20
+ * GFWList Last-Modified: 2024-12-31 14:47:01
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2367,6 +2367,7 @@ var rules = [
             "greenvpn.org",
             "grindr.com",
             "grotty-monday.com",
+            "ground.news",
             "grow.google",
             "gs-discuss.com",
             "gsearch.media",
@@ -2462,6 +2463,7 @@ var rules = [
             "here.com",
             "heritage.org",
             "heroku.com",
+            "herokuapp.com",
             "heungkongdiscuss.com",
             "hexieshe.com",
             "hexieshe.xyz",
@@ -2601,6 +2603,7 @@ var rules = [
             "howtoforge.com",
             "hoxx.com",
             "hpa.gov.tw",
+            "hpjav.com",
             "hqcdp.org",
             "hqjapanesesex.com",
             "hqmovies.com",
@@ -2687,6 +2690,7 @@ var rules = [
             "iask.bz",
             "iask.ca",
             "iav19.com",
+            "iavian.net",
             "ibiblio.org",
             "ibit.am",
             "iblist.com",
@@ -3969,6 +3973,7 @@ var rules = [
             "pcanywhere.net",
             "pcc.gov.tw",
             "pcdvd.com.tw",
+            "pcgamestorrents.com",
             "pchome.com.tw",
             "pcij.org",
             "pcloud.com",
