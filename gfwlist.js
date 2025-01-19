@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-01-18 00:40:16
- * GFWList Last-Modified: 2025-01-12 16:56:36
+ * Generated: 2025-01-19 00:45:32
+ * GFWList Last-Modified: 2025-01-18 14:37:56
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -229,6 +229,7 @@ var rules = [
             "abc.xyz",
             "abchinese.com",
             "abclite.net",
+            "abebooks.co.uk",
             "abebooks.com",
             "ablwang.com",
             "aboluowang.com",
@@ -611,6 +612,7 @@ var rules = [
             "biantailajiao.com",
             "biantailajiao.in",
             "biblesforamerica.org",
+            "bibliocommons.com",
             "bibox.com",
             "bic2011.org",
             "biedian.me",
@@ -837,6 +839,7 @@ var rules = [
             "cari.com.my",
             "caribbeancom.com",
             "carmotorshow.com",
+            "carousell.com.hk",
             "carrd.co",
             "carryzhou.com",
             "cartoonmovement.com",
@@ -912,6 +915,7 @@ var rules = [
             "changp.com",
             "changsa.net",
             "channelnewsasia.com",
+            "chanworld.org",
             "chaoex.com",
             "chapm25.com",
             "chatgpt.com",
@@ -1244,6 +1248,7 @@ var rules = [
             "darktoy.net",
             "darpa.mil",
             "darrenliuwei.com",
+            "dashlane.com",
             "dastrassi.org",
             "data-vocabulary.org",
             "data.gov.tw",
@@ -1251,7 +1256,6 @@ var rules = [
             "david-kilgour.com",
             "dawangidc.com",
             "daxa.cn",
-            "dayabook.com",
             "daylife.com",
             "db.tt",
             "dbgjd.com",
@@ -1565,8 +1569,6 @@ var rules = [
             "eroticsaloon.net",
             "eslite.com",
             "esmtp.biz",
-            "esu.dog",
-            "esu.im",
             "esurance.com",
             "etaa.org.au",
             "etadult.com",
@@ -3379,6 +3381,7 @@ var rules = [
             "mhradio.org",
             "michaelanti.com",
             "michaelmarketl.com",
+            "microsoft.com",
             "microvpn.com",
             "middle-way.net",
             "mihk.hk",
@@ -4092,6 +4095,7 @@ var rules = [
             "polymer-project.org",
             "polymerhk.com",
             "poolin.com",
+            "popai.pro",
             "popo.tw",
             "popvote.hk",
             "popxi.click",
