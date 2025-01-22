@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-01-21 00:41:40
- * GFWList Last-Modified: 2025-01-20 22:58:31
+ * Generated: 2025-01-22 00:42:48
+ * GFWList Last-Modified: 2025-01-21 14:48:39
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1889,8 +1889,8 @@ var rules = [
             "freexinwen.com",
             "freeyellow.com",
             "freeyoutubeproxy.net",
+            "freezhihu.org",
             "frienddy.com",
-            "friendfeed-media.com",
             "friendfeed.com",
             "friendfinder.com",
             "friends-of-tibet.org",
@@ -3058,6 +3058,7 @@ var rules = [
             "kik.com",
             "killwall.com",
             "kimy.com.tw",
+            "kindle4rss.com",
             "kindleren.com",
             "kingdomsalvation.org",
             "kinghost.com",
@@ -3679,13 +3680,13 @@ var rules = [
             "newnews.ca",
             "news100.com.tw",
             "newsancai.com",
+            "newsblur.com",
             "newschinacomment.org",
             "newscn.org",
             "newsdetox.ca",
             "newsdh.com",
             "newsmagazine.asia",
             "newsmax.com",
-            "newspeak.cc",
             "newstamago.com",
             "newstapa.org",
             "newstarnet.com",
@@ -4249,6 +4250,7 @@ var rules = [
             "qi-gong.me",
             "qianbai.tw",
             "qiandao.today",
+            "qianglie.com",
             "qiangwaikan.com",
             "qiangyou.org",
             "qidian.ca",
@@ -4308,17 +4310,15 @@ var rules = [
             "rapidmoviez.com",
             "rapidvpn.com",
             "rarbgprx.org",
-            "raremovie.cc",
-            "raremovie.net",
             "rateyourmusic.com",
             "rationalwiki.org",
             "rawgit.com",
             "rawgithub.com",
             "raxcdn.com",
-            "razyboard.com",
             "rcinet.ca",
             "rd.com",
             "rdio.com",
+            "reabble.com",
             "read01.com",
             "read100.com",
             "readingtimes.com.tw",
@@ -5603,6 +5603,7 @@ var rules = [
             "voxer.com",
             "voy.com",
             "vpn.ac",
+            "vpn.net",
             "vpn4all.com",
             "vpnaccount.org",
             "vpnaccounts.com",
@@ -5927,6 +5928,7 @@ var rules = [
             "xn--czq75pvv1aj5c.org",
             "xn--i2ru8q2qg.com",
             "xn--ngstr-lra8j.com",
+            "xn--noss43i.com",
             "xn--oiq.cc",
             "xn--p8j9a0d9c9a.xn--q9jyb4c",
             "xnxx.com",
