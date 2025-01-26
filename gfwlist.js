@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-01-25 00:41:03
- * GFWList Last-Modified: 2025-01-24 23:06:35
+ * Generated: 2025-01-26 00:43:26
+ * GFWList Last-Modified: 2025-01-25 16:16:19
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5805,6 +5805,8 @@ var rules = [
             "widevine.com",
             "wikaba.com",
             "wikia.com",
+            "wikibooks.org",
+            "wikidata.org",
             "wikileaks-forum.com",
             "wikileaks.ch",
             "wikileaks.com",
@@ -5820,8 +5822,11 @@ var rules = [
             "wikipedia.org",
             "wikiquote.org",
             "wikisource.org",
+            "wikiversity.org",
+            "wikivoyage.org",
             "wikiwand.com",
             "wikiwiki.jp",
+            "wiktionary.org",
             "wildammo.com",
             "williamhill.com",
             "willw.net",
@@ -5846,6 +5851,7 @@ var rules = [
             "wizcrafts.net",
             "wjbk.org",
             "wmflabs.org",
+            "wmfusercontent.org",
             "wn.com",
             "wnacg.com",
             "wnacg.org",
