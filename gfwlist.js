@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-02-22 00:41:47
- * GFWList Last-Modified: 2025-02-18 06:24:21
+ * Generated: 2025-02-23 00:47:33
+ * GFWList Last-Modified: 2025-02-22 16:48:53
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1117,6 +1117,7 @@ var rules = [
             "codeplex.com",
             "codeshare.io",
             "codeskulptor.org",
+            "cofacts.tw",
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
@@ -2408,6 +2409,7 @@ var rules = [
             "greenvpn.net",
             "greenvpn.org",
             "grindr.com",
+            "grok.com",
             "grotty-monday.com",
             "ground.news",
             "grow.google",
