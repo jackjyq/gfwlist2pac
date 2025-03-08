@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-07 00:45:10
- * GFWList Last-Modified: 2025-03-05 10:44:39
+ * Generated: 2025-03-08 00:35:42
+ * GFWList Last-Modified: 2025-03-07 10:20:58
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -199,6 +199,7 @@ var rules = [
             "66.ca",
             "666kb.com",
             "666pool.cn",
+            "69shuba.cx",
             "6do.news",
             "6do.world",
             "6park.com",
@@ -2131,6 +2132,7 @@ var rules = [
             "github.blog",
             "github.com",
             "github.io",
+            "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
             "gizlen.net",
@@ -4265,6 +4267,7 @@ var rules = [
             "politicalconsultation.org",
             "politiscales.net",
             "poloniex.com",
+            "polymarket.com",
             "polymer-project.org",
             "polymerhk.com",
             "poolbinance.com",
@@ -6001,7 +6004,6 @@ var rules = [
             "wikiversity.org",
             "wikivoyage.org",
             "wikiwand.com",
-            "wikiwiki.jp",
             "wiktionary.org",
             "wildammo.com",
             "williamhill.com",
