@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-03-23 00:50:59
- * GFWList Last-Modified: 2025-03-16 17:09:18
+ * Generated: 2025-03-24 00:48:53
+ * GFWList Last-Modified: 2025-03-23 08:14:59
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1161,6 +1161,7 @@ var rules = [
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
+            "coincarp.com",
             "coinegg.com",
             "coinex.com",
             "coingecko.com",
@@ -1178,6 +1179,7 @@ var rules = [
             "com.uk",
             "comedycentral.com",
             "comefromchina.com",
+            "comffvpn.com",
             "comic-mega.me",
             "comico.tw",
             "commandarms.com",
@@ -1784,8 +1786,6 @@ var rules = [
             "fastssh.com",
             "faststone.org",
             "fatbtc.com",
-            "favotter.net",
-            "favstar.fm",
             "fawanghuihui.org",
             "faydao.com",
             "faz.net",
@@ -1796,16 +1796,11 @@ var rules = [
             "fbcdn.net",
             "fbsbx.com",
             "fbworkmail.com",
-            "fc2.com",
-            "fc2blog.net",
-            "fc2china.com",
             "fc2cn.com",
             "fc2web.com",
             "fda.gov.tw",
-            "fdbox.com",
             "fdc64.de",
             "fdc64.org",
-            "fdc89.jp",
             "feedburner.com",
             "feeder.co",
             "feedx.net",
@@ -1820,8 +1815,6 @@ var rules = [
             "fengzhenghu.net",
             "fevernet.com",
             "ff.im",
-            "fffff.at",
-            "fflick.com",
             "ffvpn.com",
             "fgmtv.net",
             "fgmtv.org",
@@ -2084,6 +2077,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "gemini.com",
             "generated.photos",
             "genius.com",
             "geocities.co.jp",
@@ -4035,6 +4029,7 @@ var rules = [
             "on.cc",
             "on2.com",
             "onapp.com",
+            "one.one",
             "onedrive.com",
             "onedumb.com",
             "onejav.com",
@@ -6034,7 +6029,6 @@ var rules = [
             "wireguard.com",
             "wisdompubs.org",
             "wisevid.com",
-            "wistia.com",
             "withgoogle.com",
             "withyoutube.com",
             "witnessleeteaching.com",
