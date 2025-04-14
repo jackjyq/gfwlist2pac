@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-04-13 02:13:29
- * GFWList Last-Modified: 2025-04-12 07:50:02
+ * Generated: 2025-04-14 00:51:31
+ * GFWList Last-Modified: 2025-04-13 07:09:40
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -215,6 +215,7 @@ var rules = [
             "85st.com",
             "881903.com",
             "888.com",
+            "8888.google",
             "888poker.com",
             "89-64.org",
             "8964museum.com",
@@ -1119,6 +1120,7 @@ var rules = [
             "clipfish.de",
             "cloakpoint.com",
             "cloudcone.com",
+            "cloudflare-dns.com",
             "cloudflare-ipfs.com",
             "cloudfunctions.net",
             "club1069.com",
@@ -1766,6 +1768,7 @@ var rules = [
             "fangongheike.com",
             "fanhaodang.com",
             "fanhaolou.com",
+            "fani.com",
             "fanqiang.network",
             "fanqiang.tk",
             "fanqiangdang.com",
@@ -1786,6 +1789,7 @@ var rules = [
             "fastssh.com",
             "faststone.org",
             "fatbtc.com",
+            "favcomic.com",
             "fawanghuihui.org",
             "faydao.com",
             "faz.net",
@@ -2518,6 +2522,7 @@ var rules = [
             "gzm.tv",
             "gzone-anime.info",
             "h-china.org",
+            "h-ciyuan.com",
             "h-moe.com",
             "h1n1china.org",
             "h528.com",
@@ -2800,6 +2805,7 @@ var rules = [
             "hyperrate.com",
             "hypothes.is",
             "hyread.com.tw",
+            "hysteria.network",
             "i-cable.com",
             "i-part.com.tw",
             "i-scmp.com",
@@ -3430,6 +3436,7 @@ var rules = [
             "mansion.com",
             "mansionpoker.com",
             "manta.com",
+            "manwa.me",
             "manyvoices.news",
             "maplew.com",
             "marc.info",
@@ -4612,6 +4619,7 @@ var rules = [
             "safeguarddefenders.com",
             "safervpn.com",
             "safety.google",
+            "sagernet.org",
             "saintyculture.com",
             "saiq.me",
             "sakuralive.com",
@@ -4897,6 +4905,7 @@ var rules = [
             "sosad.fun",
             "sosreader.com",
             "sostibet.org",
+            "sotwe.com",
             "sou-tong.org",
             "soubory.com",
             "soul-plus.net",
@@ -4953,6 +4962,7 @@ var rules = [
             "ssglobal.me",
             "ssh91.com",
             "ssl443.org",
+            "ssm.fun",
             "sspanel.net",
             "sspro.ml",
             "ssr.tools",
@@ -5248,6 +5258,7 @@ var rules = [
             "thlib.org",
             "thomasbernhard.org",
             "thongdreams.com",
+            "thotsbay.tv",
             "threadreaderapp.com",
             "threads.net",
             "threatchaos.com",
