@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-04 00:55:17
- * GFWList Last-Modified: 2025-05-03 04:36:56
+ * Generated: 2025-05-05 00:53:04
+ * GFWList Last-Modified: 2025-05-04 02:29:11
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1394,6 +1394,7 @@ var rules = [
             "discuss.com.hk",
             "discuss4u.com",
             "dish.com",
+            "disneyplus.com",
             "disp.cc",
             "disqus.com",
             "dit-inc.us",
@@ -1777,6 +1778,7 @@ var rules = [
             "faqserv.com",
             "fartit.com",
             "farwestchina.com",
+            "fast.com",
             "fastestvpn.com",
             "fastly.net",
             "fastpic.ru",
@@ -2540,6 +2542,7 @@ var rules = [
             "halktv.com.tr",
             "handcraftedsoftware.org",
             "hanime.tv",
+            "hanime1.me",
             "hanminzu.org",
             "hanunyi.com",
             "hao.news",
@@ -3582,6 +3585,7 @@ var rules = [
             "mirrorbooks.com",
             "mirrormedia.mg",
             "missav.com",
+            "missav.ws",
             "mist.vip",
             "mit.edu",
             "mitao.com.tw",
@@ -4783,6 +4787,7 @@ var rules = [
             "simplecd.org",
             "simpleproductivityblog.com",
             "simpleswap.io",
+            "simplex.chat",
             "sina.com",
             "sina.com.hk",
             "sina.com.tw",
@@ -5179,6 +5184,7 @@ var rules = [
             "teensinasia.com",
             "tehrantimes.com",
             "telecomspace.com",
+            "telega.one",
             "telegra.ph",
             "telegram-cdn.org",
             "telegram.dog",
@@ -5188,6 +5194,7 @@ var rules = [
             "telegramdownload.com",
             "telegraph.co.uk",
             "telesco.pe",
+            "tellapart.com",
             "tellme.pw",
             "tenacy.com",
             "tenor.com",
@@ -5201,6 +5208,7 @@ var rules = [
             "tfhub.dev",
             "tfiflve.com",
             "tg-me.com",
+            "tg.dev",
             "thaicn.com",
             "thb.gov.tw",
             "theatlantic.com",
@@ -5616,6 +5624,7 @@ var rules = [
             "twttr.com",
             "twurl.nl",
             "twyac.org",
+            "tx.me",
             "txxx.com",
             "tycool.com",
             "typekit.net",
@@ -6366,6 +6375,7 @@ var rules = [
             "zmedia.com.tw",
             "zmw.cn",
             "zodgame.us",
+            "zodgame.xyz",
             "zoho.com",
             "zomobo.net",
             "zonaeuropa.com",
