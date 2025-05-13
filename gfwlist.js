@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-12 00:53:27
- * GFWList Last-Modified: 2025-05-10 11:14:27
+ * Generated: 2025-05-13 00:51:18
+ * GFWList Last-Modified: 2025-05-12 10:04:00
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -295,6 +295,7 @@ var rules = [
             "agro.hk",
             "ai-kan.net",
             "ai-wen.net",
+            "ai.google",
             "aiosearch.com",
             "aiph.net",
             "airasia.com",
@@ -2720,6 +2721,7 @@ var rules = [
             "hotair.com",
             "hotav.tv",
             "hotcoin.com",
+            "hotcool.tw",
             "hotels.cn",
             "hotfrog.com.tw",
             "hotgoo.com",
@@ -3884,6 +3886,9 @@ var rules = [
             "nightlife141.com",
             "nightswatch.top",
             "nike.com",
+            "nikke-en.com",
+            "nikke-jp.com",
+            "nikke-kr.com",
             "nikkei.com",
             "ninecommentaries.com",
             "ning.com",
@@ -3918,6 +3923,7 @@ var rules = [
             "nordstromrack.com",
             "nordvpn.com",
             "nos.nl",
+            "notebooklm.google",
             "notepad-plus-plus.org",
             "nottinghampost.com",
             "novelasia.com",
@@ -5379,6 +5385,7 @@ var rules = [
             "tigervpn.com",
             "tiktok.com",
             "tiktokcdn-us.com",
+            "tiktokcdn.com",
             "tiktokv.com",
             "tiktokv.us",
             "tiltbrush.com",
