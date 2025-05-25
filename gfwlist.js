@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-24 00:48:36
- * GFWList Last-Modified: 2025-05-20 11:14:44
+ * Generated: 2025-05-25 00:56:18
+ * GFWList Last-Modified: 2025-05-24 02:43:20
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4534,6 +4534,7 @@ var rules = [
             "redchinacn.org",
             "redd.it",
             "reddit.com",
+            "reddithelp.com",
             "redditlist.com",
             "redditmedia.com",
             "redditspace.com",
