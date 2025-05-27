@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-26 00:53:06
- * GFWList Last-Modified: 2025-05-24 02:43:20
+ * Generated: 2025-05-27 00:50:25
+ * GFWList Last-Modified: 2025-05-26 12:04:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2089,6 +2089,7 @@ var rules = [
             "geekheart.info",
             "gekikame.com",
             "gelbooru.com",
+            "gemini.google",
             "generated.photos",
             "genius.com",
             "geocities.co.jp",
