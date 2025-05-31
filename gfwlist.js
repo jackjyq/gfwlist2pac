@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-05-30 00:51:23
- * GFWList Last-Modified: 2025-05-29 11:02:04
+ * Generated: 2025-05-31 00:50:17
+ * GFWList Last-Modified: 2025-05-31 00:49:37
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -688,6 +688,7 @@ var rules = [
             "bl-doujinsouko.com",
             "blacked.com",
             "blacklogic.com",
+            "blackmagicdesign.com",
             "blackvpn.com",
             "blewpass.com",
             "blingblingsquad.net",
