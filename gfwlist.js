@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-04 00:52:39
- * GFWList Last-Modified: 2025-06-01 06:55:54
+ * Generated: 2025-06-05 00:52:02
+ * GFWList Last-Modified: 2025-06-04 11:19:28
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -470,6 +470,7 @@ var rules = [
             "arethusa.su",
             "arlingtoncemetery.mil",
             "army.mil",
+            "arstechnica.net",
             "art4tibet1998.org",
             "arte.tv",
             "artofpeacefoundation.org",
@@ -1078,6 +1079,7 @@ var rules = [
             "churchinhongkong.org",
             "chushigangdrug.ch",
             "ci-en.jp",
+            "cici.com",
             "ciciai.com",
             "cienen.com",
             "cineastentreff.de",
