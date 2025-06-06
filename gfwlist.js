@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-05 00:52:02
- * GFWList Last-Modified: 2025-06-04 11:19:28
+ * Generated: 2025-06-06 00:51:29
+ * GFWList Last-Modified: 2025-06-05 13:19:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1160,6 +1160,7 @@ var rules = [
             "codeshare.io",
             "codeskulptor.org",
             "cofacts.tw",
+            "coffeemanga.to",
             "coin2co.in",
             "coinbase.com",
             "coinbene.com",
