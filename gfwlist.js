@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-11 00:52:44
- * GFWList Last-Modified: 2025-06-06 11:15:55
+ * Generated: 2025-06-12 00:52:16
+ * GFWList Last-Modified: 2025-06-11 09:28:12
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3318,6 +3318,7 @@ var rules = [
             "line-scdn.net",
             "line.me",
             "linglingfa.com",
+            "lingualeo.com",
             "lingvodics.com",
             "link-o-rama.com",
             "linkedin.com",
