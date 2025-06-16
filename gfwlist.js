@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-15 00:58:01
- * GFWList Last-Modified: 2025-06-13 15:18:43
+ * Generated: 2025-06-16 00:54:44
+ * GFWList Last-Modified: 2025-06-15 02:04:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1950,6 +1950,7 @@ var rules = [
             "githubassets.com",
             "githubcopilot.com",
             "githubusercontent.com",
+            "gitlab.net",
             "gizlen.net",
             "gjczz.com",
             "glarity.app",
@@ -2392,6 +2393,7 @@ var rules = [
             "himalayanglacier.com",
             "himemix.com",
             "hindustantimes.com",
+            "hinet.net",
             "hitbtc.com",
             "hitomi.la",
             "hiveon.net",
