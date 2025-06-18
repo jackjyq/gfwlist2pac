@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-17 00:52:48
- * GFWList Last-Modified: 2025-06-16 12:30:48
+ * Generated: 2025-06-18 00:52:50
+ * GFWList Last-Modified: 2025-06-17 13:43:35
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -164,6 +164,7 @@ var rules = [
             "4bluestones.biz",
             "4chan.com",
             "4dq.com",
+            "4everland.io",
             "4everproxy.com",
             "4irc.com",
             "4mydomain.com",
@@ -1027,7 +1028,6 @@ var rules = [
             "clipfish.de",
             "cloudcone.com",
             "cloudflare-ipfs.com",
-            "cloudfront.net",
             "cloudfunctions.net",
             "club1069.com",
             "clubhouseapi.com",
@@ -1377,6 +1377,7 @@ var rules = [
             "dw-world.de",
             "dw.com",
             "dw.de",
+            "dweb.link",
             "dwheeler.com",
             "dwnews.com",
             "dwnews.net",
@@ -3503,6 +3504,7 @@ var rules = [
             "nflximg.net",
             "nflxso.net",
             "nflxvideo.net",
+            "nftstorage.link",
             "ng.mil",
             "nga.mil",
             "ngensis.com",
@@ -4536,6 +4538,7 @@ var rules = [
             "storj.io",
             "storm.mg",
             "stormmediagroup.com",
+            "storry.tv",
             "stoweboyd.com",
             "straitstimes.com",
             "stranabg.com",
@@ -5338,6 +5341,7 @@ var rules = [
             "vzw.com",
             "w-pool.com",
             "w3.org",
+            "w3s.link",
             "waffle1999.com",
             "wahas.com",
             "waikeung.org",
