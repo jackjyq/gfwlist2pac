@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-06-26 00:53:04
- * GFWList Last-Modified: 2025-06-22 13:07:42
+ * Generated: 2025-06-27 00:53:38
+ * GFWList Last-Modified: 2025-06-26 13:24:53
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -914,7 +914,6 @@ var rules = [
             "chenpokongvip.com",
             "cherrysave.com",
             "chhongbi.org",
-            "chicagoncmtv.com",
             "china-mmm.net",
             "china-review.com.ua",
             "china-week.com",
@@ -1765,8 +1764,6 @@ var rules = [
             "freedomhouse.org",
             "freedomsherald.org",
             "freeforums.org",
-            "freefq.com",
-            "freefuckvids.com",
             "freegao.com",
             "freehongkong.org",
             "freeilhamtohti.org",
@@ -4057,6 +4054,7 @@ var rules = [
             "radiotime.com",
             "radiovaticana.org",
             "radiovncr.com",
+            "radmin-vpn.com",
             "rael.org",
             "raggedbanner.com",
             "raidcall.com.tw",
