@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-07-14 00:57:41
- * GFWList Last-Modified: 2025-07-09 03:20:57
+ * Generated: 2025-07-15 00:56:30
+ * GFWList Last-Modified: 2025-07-14 09:55:03
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5573,6 +5573,7 @@ var rules = [
             "xiaoma.org",
             "xiaomi.eu",
             "xiaxiaoqiang.net",
+            "xicons.org",
             "xiezhua.com",
             "xihua.es",
             "xinbao.de",
