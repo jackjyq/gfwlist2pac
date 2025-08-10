@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-09 00:52:25
- * GFWList Last-Modified: 2025-08-08 14:50:02
+ * Generated: 2025-08-10 01:00:31
+ * GFWList Last-Modified: 2025-08-09 08:32:32
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3450,6 +3450,7 @@ var rules = [
             "ned.org",
             "nekoslovakia.net",
             "neo-miracle.com",
+            "neoforged.net",
             "neowin.net",
             "netalert.me",
             "netbirds.com",
