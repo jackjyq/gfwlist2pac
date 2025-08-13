@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-12 00:52:37
- * GFWList Last-Modified: 2025-08-09 08:32:32
+ * Generated: 2025-08-13 00:53:44
+ * GFWList Last-Modified: 2025-08-12 03:15:07
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -614,6 +614,7 @@ var rules = [
             "biliworld.com",
             "billypan.com",
             "binance.com",
+            "binance.org",
             "binancezh.cc",
             "bing.com",
             "binux.me",
@@ -2649,6 +2650,7 @@ var rules = [
             "indiemerch.com",
             "info-graf.fr",
             "informer.com",
+            "infura.io",
             "inherit.live",
             "initiativesforchina.org",
             "inkbunny.net",
@@ -3082,6 +3084,7 @@ var rules = [
             "lsxszzg.com",
             "ltn.com.tw",
             "luckydesigner.space",
+            "luckymobile.ca",
             "ludepress.com",
             "luke54.com",
             "luke54.org",
@@ -3201,6 +3204,7 @@ var rules = [
             "meta.com",
             "metacubex.one",
             "metafilter.com",
+            "metamask.io",
             "metart.com",
             "metarthunter.com",
             "meteorshowersonline.com",
