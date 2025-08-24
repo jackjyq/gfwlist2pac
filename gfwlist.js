@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-23 00:47:15
- * GFWList Last-Modified: 2025-08-22 02:53:57
+ * Generated: 2025-08-24 00:55:45
+ * GFWList Last-Modified: 2025-08-23 08:36:20
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1833,6 +1833,8 @@ var rules = [
             "ftx.com",
             "fucd.com",
             "fuchsia.dev",
+            "fuckccp.com",
+            "fuckccp.xyz",
             "fuckgfw.org",
             "fuckgfw233.org",
             "fulione.com",
