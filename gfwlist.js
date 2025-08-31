@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-08-30 00:44:44
- * GFWList Last-Modified: 2025-08-29 14:56:42
+ * Generated: 2025-08-31 00:52:32
+ * GFWList Last-Modified: 2025-08-30 08:38:06
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1346,7 +1346,6 @@ var rules = [
             "dougscripts.com",
             "doujincafe.com",
             "dowjones.com",
-            "dpdns.org",
             "dphk.org",
             "dpool.top",
             "dpp.org.tw",
