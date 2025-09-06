@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-05 00:46:26
- * GFWList Last-Modified: 2025-08-30 08:38:06
+ * Generated: 2025-09-06 00:45:02
+ * GFWList Last-Modified: 2025-09-05 14:33:31
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -738,6 +738,8 @@ var rules = [
             "bsky.app",
             "bsky.network",
             "bsky.social",
+            "bt4g.org",
+            "bt4gprx.com",
             "bt95.com",
             "btaia.com",
             "btbit.net",
@@ -4675,6 +4677,7 @@ var rules = [
             "talkonly.net",
             "tanc.org",
             "tangren.us",
+            "tanks.gg",
             "taoism.net",
             "tapanwap.com",
             "tapatalk.com",
