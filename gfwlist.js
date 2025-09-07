@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-06 00:45:02
- * GFWList Last-Modified: 2025-09-05 14:33:31
+ * Generated: 2025-09-07 00:51:59
+ * GFWList Last-Modified: 2025-09-06 01:15:50
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2691,6 +2691,7 @@ var rules = [
             "iphonetaiwan.org",
             "iphonix.fr",
             "ipicture.ru",
+            "ipify.org",
             "ipjetable.net",
             "ipobar.com",
             "ipoock.com",
