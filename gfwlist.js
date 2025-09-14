@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-13 00:43:05
- * GFWList Last-Modified: 2025-09-06 01:15:50
+ * Generated: 2025-09-14 00:50:54
+ * GFWList Last-Modified: 2025-09-13 04:13:45
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3177,6 +3177,7 @@ var rules = [
             "mcaf.ee",
             "mcfog.com",
             "mcreasite.com",
+            "mcusercontent.com",
             "md-t.org",
             "me.me",
             "meansys.com",
@@ -4673,6 +4674,7 @@ var rules = [
             "taiwantt.org.tw",
             "taiwanus.net",
             "talk853.com",
+            "talkatone.com",
             "talkboxapp.com",
             "talkcc.com",
             "talkonly.net",
