@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-22 00:52:06
- * GFWList Last-Modified: 2025-09-21 02:41:47
+ * Generated: 2025-09-23 00:46:04
+ * GFWList Last-Modified: 2025-09-22 14:02:58
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5146,7 +5146,6 @@ var rules = [
             "ucam.org",
             "ucanews.com",
             "uchicago.edu",
-            "uderzo.it",
             "udn.com",
             "udn.com.tw",
             "udnbkk.com",
