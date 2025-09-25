@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-24 00:46:50
- * GFWList Last-Modified: 2025-09-23 02:23:14
+ * Generated: 2025-09-25 00:46:54
+ * GFWList Last-Modified: 2025-09-24 01:26:08
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1143,6 +1143,7 @@ var rules = [
             "csw.org.uk",
             "ct.org.tw",
             "ctao.org",
+            "ctinets.com",
             "ctinews.com",
             "ctitv.com.tw",
             "ctowc.org",
@@ -2682,6 +2683,7 @@ var rules = [
             "internetdefenseleague.org",
             "internetfreedom.org",
             "internetpopculture.com",
+            "interseclab.org",
             "inthenameofconfuciusmovie.com",
             "invidio.us",
             "inxian.com",
