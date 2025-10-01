@@ -1,6 +1,6 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-09-30 00:47:49
+ * Generated: 2025-10-01 00:54:02
  * GFWList Last-Modified: 2025-09-25 03:27:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
