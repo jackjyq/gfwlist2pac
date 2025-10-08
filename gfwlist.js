@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-10-07 00:45:56
- * GFWList Last-Modified: 2025-10-06 15:36:12
+ * Generated: 2025-10-08 00:45:51
+ * GFWList Last-Modified: 2025-10-07 08:08:01
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4475,6 +4475,7 @@ var rules = [
             "solana.com",
             "solidaritetibet.org",
             "solidfiles.com",
+            "solscan.io",
             "solv.finance",
             "somee.com",
             "songjianjun.com",
