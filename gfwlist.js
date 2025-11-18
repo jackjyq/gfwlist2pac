@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-17 00:53:02
- * GFWList Last-Modified: 2025-11-14 13:31:14
+ * Generated: 2025-11-18 00:51:23
+ * GFWList Last-Modified: 2025-11-17 09:45:35
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -258,6 +258,7 @@ var rules = [
             "addictedtocoffee.de",
             "addyoutube.com",
             "adelaidebbs.com",
+            "adguard-vpn.com",
             "admob.com",
             "adpl.org.hk",
             "ads-twitter.com",
@@ -2368,6 +2369,7 @@ var rules = [
             "have8.com",
             "hbg.com",
             "hbo.com",
+            "hbomax.com",
             "hclips.com",
             "hdtvb.net",
             "hdzog.com",
@@ -3304,6 +3306,7 @@ var rules = [
             "mixx.com",
             "mizzmona.com",
             "mjib.gov.tw",
+            "mjj.rip",
             "mlc.ai",
             "mlcool.com",
             "mlzs.work",
@@ -4231,6 +4234,7 @@ var rules = [
             "rumble.com",
             "runbtx.com",
             "rushbee.com",
+            "rustdesk.com",
             "rusvpn.com",
             "ruten.com.tw",
             "rutracker.net",
