@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-11-30 00:58:09
- * GFWList Last-Modified: 2025-11-22 11:41:21
+ * Generated: 2025-12-01 01:02:32
+ * GFWList Last-Modified: 2025-11-30 03:25:57
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -5822,6 +5822,7 @@ var rules = [
             "zalmos.com",
             "zamimg.com",
             "zaobao.com.sg",
+            "zaochenbao.com",
             "zapto.org",
             "zattoo.com",
             "zb.com",
