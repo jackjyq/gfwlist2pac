@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-19 00:54:33
- * GFWList Last-Modified: 2025-12-17 08:56:03
+ * Generated: 2025-12-20 00:51:35
+ * GFWList Last-Modified: 2025-12-19 11:28:02
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3830,6 +3830,7 @@ var rules = [
             "parler.com",
             "parse.com",
             "parsevideo.com",
+            "partnerstack.xyz",
             "partycasino.com",
             "partypoker.com",
             "passion.com",
