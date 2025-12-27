@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-26 00:54:40
- * GFWList Last-Modified: 2025-12-24 08:18:43
+ * Generated: 2025-12-27 00:53:24
+ * GFWList Last-Modified: 2025-12-26 07:03:42
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1001,7 +1001,6 @@ var rules = [
             "chromecast.com",
             "chromeexperiments.com",
             "chromestatus.com",
-            "chromium.org",
             "chuang-yen.org",
             "chubold.com",
             "chubun.com",
@@ -3113,6 +3112,7 @@ var rules = [
             "lorenzetti.com.br",
             "lotsawahouse.org",
             "lotuslight.org.tw",
+            "lovart.ai",
             "loved.hk",
             "lovetvshow.com",
             "lpsg.com",
