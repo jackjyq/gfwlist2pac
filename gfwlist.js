@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2025-12-27 00:53:24
- * GFWList Last-Modified: 2025-12-26 07:03:42
+ * Generated: 2025-12-28 01:01:05
+ * GFWList Last-Modified: 2025-12-27 13:31:55
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -312,6 +312,7 @@ var rules = [
             "aliengu.com",
             "alive.bar",
             "aljazeera.com",
+            "aljazeera.net",
             "alkasir.com",
             "all4mom.org",
             "allcoin.com",
@@ -1261,8 +1262,6 @@ var rules = [
             "deja.com",
             "delcamp.net",
             "demosisto.hk",
-            "deno.com",
-            "deno.dev",
             "depositphotos.com",
             "desc.se",
             "desipro.de",
@@ -1963,6 +1962,7 @@ var rules = [
             "gfw.press",
             "gfw.report",
             "gfwatch.org",
+            "gfwbao.com",
             "ggpht.com",
             "ggssl.com",
             "ghidra-sre.org",
@@ -4601,6 +4601,7 @@ var rules = [
             "stboy.net",
             "stc.com.sa",
             "steamcommunity.com",
+            "steamladder.com",
             "steampowered.com",
             "steamstatic.com",
             "steel-storm.com",
