@@ -1,5 +1,5 @@
- * Generated: 2026-01-17 00:54:22
- * GFWList Last-Modified: 2026-01-09 09:18:34
+ * Generated: 2026-01-18 01:00:45
+ * GFWList Last-Modified: 2026-01-17 09:28:54
 # gfwlist2pac
 
 Automatically convert gfwlist to pac.js file everyday

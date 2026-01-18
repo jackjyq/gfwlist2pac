@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-01-17 00:54:22
- * GFWList Last-Modified: 2026-01-09 09:18:34
+ * Generated: 2026-01-18 01:00:45
+ * GFWList Last-Modified: 2026-01-17 09:28:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -373,7 +373,10 @@ var rules = [
             "angularjs.org",
             "animecrazy.net",
             "aniscartujo.com",
+            "annas-archive.in",
+            "annas-archive.li",
             "annas-archive.org",
+            "annas-archive.pm",
             "annas-archive.se",
             "annatam.com",
             "anobii.com",
@@ -3455,6 +3458,7 @@ var rules = [
             "myspacecdn.com",
             "mytalkbox.com",
             "mytizi.com",
+            "mytvsuper.com",
             "mywife.cc",
             "mywww.biz",
             "myz.info",
@@ -5115,6 +5119,7 @@ var rules = [
             "tv.com",
             "tvants.com",
             "tvb.com",
+            "tvbanywhere.com",
             "tvboxnow.com",
             "tvbs.com.tw",
             "tvider.com",
