@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-01 01:16:34
- * GFWList Last-Modified: 2026-01-31 07:10:25
+ * Generated: 2026-02-02 01:08:40
+ * GFWList Last-Modified: 2026-02-01 02:37:13
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4735,6 +4735,7 @@ var rules = [
             "tafm.org",
             "tagwalk.com",
             "tahr.org.tw",
+            "tails.net",
             "taipei.gov.tw",
             "taipeisociety.org",
             "taipeitimes.com",
