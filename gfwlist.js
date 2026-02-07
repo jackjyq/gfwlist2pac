@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-06 01:04:45
- * GFWList Last-Modified: 2026-02-05 10:25:56
+ * Generated: 2026-02-07 01:03:43
+ * GFWList Last-Modified: 2026-02-06 14:26:36
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -647,6 +647,7 @@ var rules = [
             "bitshare.com",
             "bitsnoop.com",
             "bitterwinter.org",
+            "bittorrent.com",
             "bitvise.com",
             "bitz.ai",
             "bizhat.com",
@@ -2401,6 +2402,7 @@ var rules = [
             "helpeachpeople.com",
             "helpster.de",
             "helpzhuling.org",
+            "hembed.com",
             "hentai.to",
             "hentaitube.tv",
             "hentaivideoworld.com",
@@ -2606,6 +2608,7 @@ var rules = [
             "hyperrate.com",
             "hypothes.is",
             "hyread.com.tw",
+            "hysteria.network",
             "i-cable.com",
             "i-part.com.tw",
             "i-scmp.com",
