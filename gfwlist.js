@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-02-18 01:11:25
- * GFWList Last-Modified: 2026-02-16 11:10:32
+ * Generated: 2026-02-19 01:10:32
+ * GFWList Last-Modified: 2026-02-18 13:32:07
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -13,7 +13,6 @@ var rules = [
     ],
     [
         [
-            "gvt1.com",
             "www.gov.tw"
         ],
         [
@@ -1632,6 +1631,7 @@ var rules = [
             "gutteruncensored.com",
             "gvlib.com",
             "gvm.com.tw",
+            "gvt1.com",
             "gvt3.com",
             "gwins.org",
             "gwtproject.org",
@@ -2321,6 +2321,7 @@ var rules = [
             "moresci.sale",
             "morningsun.org",
             "mos.ru",
+            "mosavi.io",
             "motherless.com",
             "movements.org",
             "moviefap.com",
