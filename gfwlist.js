@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-02 01:07:35
- * GFWList Last-Modified: 2026-02-24 13:37:10
+ * Generated: 2026-03-03 01:09:31
+ * GFWList Last-Modified: 2026-03-02 11:25:14
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -678,6 +678,7 @@ var rules = [
             "clashverge.dev",
             "classicalguitarblog.net",
             "claude.ai",
+            "claude.com",
             "clearsurance.com",
             "clementine-player.org",
             "clinica-tibet.ru",
@@ -1850,7 +1851,6 @@ var rules = [
             "imagezilla.net",
             "imago-images.com",
             "imb.org",
-            "imdb.com",
             "img.ly",
             "imgasd.com",
             "imgchili.net",
@@ -2180,6 +2180,7 @@ var rules = [
             "mangafox.me",
             "mangmang.run",
             "manta.com",
+            "manus.im",
             "manyvoices.news",
             "marc.info",
             "martau.com",
