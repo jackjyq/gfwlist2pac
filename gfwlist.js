@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-03 01:09:31
- * GFWList Last-Modified: 2026-03-02 11:25:14
+ * Generated: 2026-03-04 01:05:51
+ * GFWList Last-Modified: 2026-03-03 14:54:07
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -262,6 +262,7 @@ var rules = [
             "archives.gov",
             "arctosia.com",
             "areca-backup.org",
+            "arena.ai",
             "arena.taipei",
             "arethusa.su",
             "arlingtoncemetery.mil",
@@ -269,6 +270,7 @@ var rules = [
             "arte.tv",
             "artstation.com",
             "arvanstorage.ir",
+            "arweave.org",
             "asacp.org",
             "asiaharvest.org",
             "asianage.com",
@@ -3840,6 +3842,7 @@ var rules = [
             "wiredpen.com",
             "wireguard.com",
             "wisevid.com",
+            "wispbyte.com",
             "wistia.com",
             "withgoogle.com",
             "withyoutube.com",
