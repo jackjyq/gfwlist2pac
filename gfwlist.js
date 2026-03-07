@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-06 01:12:11
- * GFWList Last-Modified: 2026-03-05 12:41:38
+ * Generated: 2026-03-07 01:03:59
+ * GFWList Last-Modified: 2026-03-06 01:59:13
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -688,6 +688,7 @@ var rules = [
             "cloudcone.com",
             "cloudflare-dns.com",
             "cloudflare-ipfs.com",
+            "cloudflare.com",
             "cloudflarestatus.com",
             "cloudfunctions.net",
             "club1069.com",
@@ -1487,6 +1488,7 @@ var rules = [
             "google.cv",
             "google.cz",
             "google.de",
+            "google.dev",
             "google.dk",
             "google.dm",
             "google.dz",
@@ -1892,6 +1894,7 @@ var rules = [
             "internetpopculture.com",
             "interseclab.org",
             "inthenameofconfuciusmovie.com",
+            "investing.com",
             "invidio.us",
             "inxian.com",
             "ipdefenseforum.com",
