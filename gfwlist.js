@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-03-23 01:13:21
- * GFWList Last-Modified: 2026-03-21 10:48:14
+ * Generated: 2026-03-24 01:06:05
+ * GFWList Last-Modified: 2026-03-23 04:40:29
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2916,6 +2916,7 @@ var rules = [
             "rixcloud.us",
             "rlwlw.com",
             "rmbl.ws",
+            "rmimg.com",
             "robustnessiskey.com",
             "rocket-inc.net",
             "rocket.chat",
