@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-05 01:20:58
- * GFWList Last-Modified: 2026-04-04 02:42:53
+ * Generated: 2026-04-06 01:21:10
+ * GFWList Last-Modified: 2026-04-05 10:54:41
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -250,6 +250,7 @@ var rules = [
             "appspot.com",
             "appsto.re",
             "aptoide.com",
+            "archive-it.org",
             "archive.fo",
             "archive.is",
             "archive.li",
@@ -893,6 +894,7 @@ var rules = [
             "dmhy.org",
             "dmm.co.jp",
             "dmm.com",
+            "dns.sb",
             "dns2go.com",
             "dnscrypt.org",
             "dnssec.net",
@@ -903,6 +905,7 @@ var rules = [
             "dockerstatus.com",
             "docs.new",
             "documentingreality.com",
+            "doh.sb",
             "dolc.de",
             "dolf.org.hk",
             "dongtaiwang.com",
@@ -911,6 +914,7 @@ var rules = [
             "doom9.org",
             "doosho.com",
             "doourbest.org",
+            "dot.sb",
             "dotplane.com",
             "dotsub.com",
             "dotvpn.com",
