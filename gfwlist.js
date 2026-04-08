@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-07 01:18:34
- * GFWList Last-Modified: 2026-04-05 10:54:41
+ * Generated: 2026-04-08 01:19:51
+ * GFWList Last-Modified: 2026-04-07 13:58:23
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -758,6 +758,7 @@ var rules = [
             "cpu-monkey.com",
             "cq99.us",
             "crackle.com",
+            "crashlytics.com",
             "crazypool.org",
             "crazyshit.com",
             "crbug.com",
