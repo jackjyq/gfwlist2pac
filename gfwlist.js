@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-14 01:24:20
- * GFWList Last-Modified: 2026-04-11 13:49:59
+ * Generated: 2026-04-15 01:21:14
+ * GFWList Last-Modified: 2026-04-14 10:07:21
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -140,7 +140,6 @@ var rules = [
             "aiosearch.com",
             "aiph.net",
             "airconsole.com",
-            "aircrack-ng.org",
             "airitilibrary.com",
             "airvpn.org",
             "ait.org.tw",
@@ -1717,8 +1716,6 @@ var rules = [
             "hiveon.net",
             "hk-pub.com",
             "hk01.com",
-            "hkacg.com",
-            "hkacg.net",
             "hkbookcity.com",
             "hkchronicles.com",
             "hkcnews.com",
@@ -2364,7 +2361,6 @@ var rules = [
             "muzi.net",
             "muzu.tv",
             "mvg.jp",
-            "mx981.com",
             "my-private-network.co.uk",
             "myaudiocast.com",
             "mybet.com",
@@ -2572,6 +2568,7 @@ var rules = [
             "ooni.io",
             "ooni.org",
             "openai.com",
+            "openart.ai",
             "opencritic.com",
             "opendemocracy.net",
             "openid.net",
@@ -3741,7 +3738,6 @@ var rules = [
             "vrporn.com",
             "vrsmash.com",
             "vtunnel.com",
-            "vuku.cc",
             "vultryhw.com",
             "vzw.com",
             "w-pool.com",
@@ -3928,7 +3924,6 @@ var rules = [
             "xing.com",
             "xinjiangpolicefiles.org",
             "xinmiao.com.hk",
-            "xjp.cc",
             "xjtravelguide.com",
             "xm.com",
             "xml-training-guide.com",
