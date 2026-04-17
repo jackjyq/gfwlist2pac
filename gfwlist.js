@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-16 01:26:56
- * GFWList Last-Modified: 2026-04-14 10:07:21
+ * Generated: 2026-04-17 01:24:19
+ * GFWList Last-Modified: 2026-04-16 10:19:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -300,6 +300,7 @@ var rules = [
             "avg.com",
             "avgle.com",
             "avidemux.org",
+            "avistaz.to",
             "avmo.pw",
             "avmoo.pw",
             "avoision.com",
