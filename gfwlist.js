@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-04-22 01:22:51
- * GFWList Last-Modified: 2026-04-16 10:19:54
+ * Generated: 2026-04-23 01:27:56
+ * GFWList Last-Modified: 2026-04-22 12:34:44
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -277,6 +277,7 @@ var rules = [
             "asianfanfics.com",
             "asiansexdiary.com",
             "asiaone.com",
+            "asiasociety.org",
             "ask.com",
             "askstudent.com",
             "askynz.net",
@@ -353,6 +354,7 @@ var rules = [
             "beijing2022.art",
             "beijingspring.com",
             "bell.wiki",
+            "bellingcat.com",
             "berlinerbericht.de",
             "berlintwitterwall.com",
             "bestvpn.com",
@@ -989,6 +991,7 @@ var rules = [
             "eireinikotaerukai.com",
             "eksisozluk.com",
             "elconfidencial.com",
+            "element.io",
             "elgoog.im",
             "elpais.com",
             "emule-ed2k.com",
@@ -2071,6 +2074,7 @@ var rules = [
             "lamayeshe.com",
             "lamnia.co.uk",
             "landofhope.tv",
+            "lantern.io",
             "laogai.org",
             "laogairesearch.org",
             "laqingdan.net",
@@ -2869,6 +2873,7 @@ var rules = [
             "rationalwiki.org",
             "rawgit.com",
             "rawgithub.com",
+            "rawstory.com",
             "rcinet.ca",
             "rd.com",
             "reabble.com",
@@ -2880,6 +2885,7 @@ var rules = [
             "realitykings.com",
             "reason.com",
             "recaptcha.net",
+            "recordedfuture.com",
             "recoveryversion.com.tw",
             "recoveryversion.org",
             "red-lang.org",
@@ -2917,6 +2923,7 @@ var rules = [
             "rixcloud.us",
             "rlwlw.com",
             "rmbl.ws",
+            "roblox.com",
             "robustnessiskey.com",
             "rocket-inc.net",
             "rocket.chat",
@@ -3126,7 +3133,6 @@ var rules = [
             "southnews.com.tw",
             "sowers.org.hk",
             "soylent.com",
-            "soylentnews.org",
             "spacex.com",
             "spankbang.com",
             "sparkpool.com",
@@ -3334,6 +3340,7 @@ var rules = [
             "thewgo.org",
             "thewirechina.com",
             "theync.com",
+            "thinkchina.sg",
             "thinkgeek.com",
             "thinkingtaiwan.com",
             "thinkwithgoogle.com",
