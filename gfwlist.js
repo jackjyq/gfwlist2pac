@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-22 02:09:36
- * GFWList Last-Modified: 2026-05-20 11:47:07
+ * Generated: 2026-05-23 01:57:08
+ * GFWList Last-Modified: 2026-05-22 12:17:45
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -45,6 +45,7 @@ var rules = [
             "2047.one",
             "2049bbs.xyz",
             "233abc.com",
+            "24hbook.com",
             "24hrs.ca",
             "32red.com",
             "36rain.com",
@@ -2219,6 +2220,7 @@ var rules = [
             "martsangkagyuofficial.org",
             "marxist.net",
             "marxists.org",
+            "mas.to",
             "mash.to",
             "mastodon.cloud",
             "mastodon.host",
