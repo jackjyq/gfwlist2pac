@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-05-29 02:03:19
- * GFWList Last-Modified: 2026-05-27 09:39:21
+ * Generated: 2026-05-30 01:58:25
+ * GFWList Last-Modified: 2026-05-29 13:43:25
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -272,6 +272,7 @@ var rules = [
             "artstation.com",
             "arvanstorage.ir",
             "arweave.org",
+            "as.mr",
             "asacp.org",
             "asiaharvest.org",
             "asianage.com",
@@ -329,6 +330,7 @@ var rules = [
             "bangdream.space",
             "bangkokpost.com",
             "bangumi.moe",
+            "bangumi.tv",
             "bangyoulater.com",
             "bankmobilevibe.com",
             "bannedbook.org",
@@ -375,6 +377,7 @@ var rules = [
             "betvictor.com",
             "bfnn.org",
             "bfsh.hk",
+            "bgm.tv",
             "bgme.me",
             "bgvpn.com",
             "biblesforamerica.org",
@@ -616,6 +619,7 @@ var rules = [
             "chenpokongvip.com",
             "cherrysave.com",
             "chhongbi.org",
+            "chii.in",
             "china-mmm.net",
             "china-review.com.ua",
             "china-week.com",
@@ -713,7 +717,6 @@ var rules = [
             "cn-proxy.com",
             "cn.com",
             "cna.com.tw",
-            "cnbc.com",
             "cnbeta.com.tw",
             "cnd.org",
             "cnpolitics.org",
@@ -1298,6 +1301,7 @@ var rules = [
             "geek-art.net",
             "gekikame.com",
             "gelbooru.com",
+            "gencraft.com",
             "generated.photos",
             "genius.com",
             "geph.io",
@@ -1714,6 +1718,7 @@ var rules = [
             "hicairo.com",
             "hiccears.com",
             "hidden-advent.org",
+            "hiddify.com",
             "hide.me",
             "hideipvpn.com",
             "hideman.net",
@@ -3135,7 +3140,6 @@ var rules = [
             "socks-proxy.net",
             "sockslist.net",
             "socrec.org",
-            "softether-download.com",
             "softether.co.jp",
             "softether.org",
             "softfamous.com",
@@ -3706,6 +3710,7 @@ var rules = [
             "vatn.org",
             "vcf-online.org",
             "vcfbuilder.org",
+            "veed.io",
             "vegasred.com",
             "venetianmacao.com",
             "ventureswell.com",
@@ -4043,7 +4048,6 @@ var rules = [
             "yfsp.tv",
             "yhcw.net",
             "yibaochina.com",
-            "yidio.com",
             "yigeni.com",
             "yimg.com",
             "yipub.com",
