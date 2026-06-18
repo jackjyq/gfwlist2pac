@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-06-17 00:31:35
- * GFWList Last-Modified: 2026-06-05 04:45:19
+ * Generated: 2026-06-18 00:32:28
+ * GFWList Last-Modified: 2026-06-17 14:04:05
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3101,6 +3101,7 @@ var rules = [
             "sinoca.com",
             "sinocast.com",
             "sinoinsider.com",
+            "sinyalee.com",
             "sipml5.org",
             "sis001.com",
             "site.new",
