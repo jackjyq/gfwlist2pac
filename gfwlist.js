@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-07-20 03:18:45
- * GFWList Last-Modified: 2026-07-18 01:04:10
+ * Generated: 2026-07-21 01:27:26
+ * GFWList Last-Modified: 2026-07-20 11:42:32
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -696,6 +696,7 @@ var rules = [
             "cixiaoya.club",
             "ck101.com",
             "clashverge.dev",
+            "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
             "claude.com",
@@ -3347,6 +3348,7 @@ var rules = [
             "syncback.com",
             "synergyse.com",
             "syosetu.com",
+            "sysub.com",
             "t-g.com",
             "t.co",
             "t.me",
