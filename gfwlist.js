@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-07-21 01:27:26
- * GFWList Last-Modified: 2026-07-20 11:42:32
+ * Generated: 2026-07-22 01:26:29
+ * GFWList Last-Modified: 2026-07-21 15:10:45
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4194,6 +4194,7 @@ var rules = [
             "zdnet.com.tw",
             "zello.com",
             "zenmate.com",
+            "zenmux.ai",
             "zerohedge.com",
             "zeronet.io",
             "zhangtianliang.com",
