@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-07-22 01:26:29
- * GFWList Last-Modified: 2026-07-21 15:10:45
+ * Generated: 2026-07-23 01:46:04
+ * GFWList Last-Modified: 2026-07-22 09:25:55
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3565,6 +3565,7 @@ var rules = [
             "togetter.com",
             "token.im",
             "tokenlon.im",
+            "tokenplus.app",
             "tokyo-porn-tube.com",
             "tokyocn.com",
             "tomp3.cc",
