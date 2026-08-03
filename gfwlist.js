@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-02 01:43:35
- * GFWList Last-Modified: 2026-08-01 03:31:51
+ * Generated: 2026-08-03 01:46:08
+ * GFWList Last-Modified: 2026-08-02 13:51:52
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -603,6 +603,7 @@ var rules = [
             "centerforhumanreprod.com",
             "centralnation.com",
             "centurys.net",
+            "cerebras.ai",
             "certificate-transparency.org",
             "cfr.org",
             "cfsh99.com",
@@ -679,6 +680,7 @@ var rules = [
             "chromeexperiments.com",
             "chromestatus.com",
             "chromium.org",
+            "cht.com.tw",
             "ci-en.jp",
             "cia.gov",
             "cici.com",
@@ -696,7 +698,6 @@ var rules = [
             "civitai.com",
             "cixiaoya.club",
             "ck101.com",
-            "clashverge.dev",
             "clashyun.com",
             "classicalguitarblog.net",
             "claude.ai",
@@ -2436,7 +2437,6 @@ var rules = [
             "motherless.com",
             "movements.org",
             "moviefap.com",
-            "mozilla.ai",
             "mozilla.org",
             "moztw.org",
             "mpettis.com",
@@ -2914,7 +2914,6 @@ var rules = [
             "pure18.com",
             "pureapk.com",
             "pureconcepts.net",
-            "puredns.org",
             "pureinsight.org",
             "purepdf.com",
             "purevpn.com",
@@ -2956,7 +2955,6 @@ var rules = [
             "radio.garden",
             "radioaustralia.net.au",
             "radiohilight.net",
-            "radiojar.com",
             "radioline.co",
             "radiovaticana.org",
             "radiovncr.com",
@@ -3070,7 +3068,6 @@ var rules = [
             "safechat.com",
             "safeguarddefenders.com",
             "safervpn.com",
-            "sagernet.org",
             "saintyculture.com",
             "sakuralive.com",
             "salvation.org.hk",
