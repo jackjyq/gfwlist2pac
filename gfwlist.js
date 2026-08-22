@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-21 00:37:07
- * GFWList Last-Modified: 2026-08-19 02:15:34
+ * Generated: 2026-08-22 00:34:36
+ * GFWList Last-Modified: 2026-08-21 02:55:00
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -485,6 +485,7 @@ var rules = [
             "breakgfw.com",
             "breakingtweets.com",
             "breakwall.net",
+            "briarproject.org",
             "brill.com",
             "brizzly.com",
             "broadpressinc.com",
@@ -619,6 +620,7 @@ var rules = [
             "character.ai",
             "chat.com",
             "chatgpt.com",
+            "chatgpt.site",
             "chatpdf.com",
             "chaturbate.com",
             "checkgfw.com",
