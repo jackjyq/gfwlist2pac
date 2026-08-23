@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-22 00:34:36
- * GFWList Last-Modified: 2026-08-21 02:55:00
+ * Generated: 2026-08-23 00:37:36
+ * GFWList Last-Modified: 2026-08-22 06:17:41
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -1780,6 +1780,7 @@ var rules = [
             "himemix.com",
             "hindustantimes.com",
             "hinet.net",
+            "historylines.net",
             "hitbtc.com",
             "hitomi.la",
             "hive.blog",
@@ -2113,6 +2114,7 @@ var rules = [
             "kinmen.travel",
             "kinokuniya.com",
             "kiwi.kz",
+            "kiwix.org",
             "kk-whys.co.jp",
             "kkbox.com",
             "kknews.cc",
@@ -2308,6 +2310,7 @@ var rules = [
             "mattwilcox.net",
             "mcadforums.com",
             "mcaf.ee",
+            "mceindex.com",
             "mcusercontent.com",
             "md-t.org",
             "me.me",
@@ -3089,6 +3092,7 @@ var rules = [
             "savetibet.org",
             "savetibetstore.org",
             "saveuighur.org",
+            "sb.sb",
             "sbme.me",
             "schema.org",
             "schwab.co.uk",
