@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-08-27 05:36:06
- * GFWList Last-Modified: 2026-08-23 06:47:59
+ * Generated: 2026-08-28 07:44:13
+ * GFWList Last-Modified: 2026-08-28 03:00:43
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -4044,6 +4044,7 @@ var rules = [
             "wp.com",
             "wplace.live",
             "wpoforum.com",
+            "write.as",
             "writesonic.com",
             "wsj.com",
             "wsj.net",
