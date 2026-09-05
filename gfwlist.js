@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-09-04 01:51:00
- * GFWList Last-Modified: 2026-08-30 14:57:02
+ * Generated: 2026-09-05 01:51:57
+ * GFWList Last-Modified: 2026-09-04 10:44:38
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -806,6 +806,7 @@ var rules = [
             "csuchen.de",
             "csw.org.uk",
             "ct.org.tw",
+            "ctee.com.tw",
             "ctinets.com",
             "ctinews.com",
             "ctinsider.com",
@@ -1793,6 +1794,7 @@ var rules = [
             "hkcnews.com",
             "hkcoc.com",
             "hkdc.us",
+            "hkej.com",
             "hket.com",
             "hkfaa.com",
             "hkgalden.com",
@@ -2208,6 +2210,7 @@ var rules = [
             "linktr.ee",
             "linux.do",
             "linux.org.hk",
+            "linux.sb",
             "liquiditytp.com",
             "liquidvpn.com",
             "list-manage.com",
