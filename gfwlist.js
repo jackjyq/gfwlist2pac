@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-09-21 02:11:53
- * GFWList Last-Modified: 2026-09-21 01:30:46
+ * Generated: 2026-09-22 02:16:52
+ * GFWList Last-Modified: 2026-09-21 12:27:46
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -669,6 +669,7 @@ var rules = [
             "chinesegay.org",
             "chinesen.de",
             "chinesenews.net.au",
+            "chineseposters.net",
             "chineseradioseattle.com",
             "chineseupress.com",
             "chingcheong.com",
