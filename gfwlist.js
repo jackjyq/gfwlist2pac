@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-10-23 02:24:48
- * GFWList Last-Modified: 2026-10-17 14:35:56
+ * Generated: 2026-10-24 02:22:30
+ * GFWList Last-Modified: 2026-10-23 10:29:54
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -2092,6 +2092,7 @@ var rules = [
             "jqueryui.com",
             "jsdelivr.net",
             "jshell.net",
+            "jspm.io",
             "jtvnw.net",
             "jukujo-club.com",
             "juliepost.com",
@@ -3775,6 +3776,7 @@ var rules = [
             "tycool.com",
             "typekit.net",
             "typepad.com",
+            "typesafe.ai",
             "typeset.io",
             "typora.io",
             "u15.info",
