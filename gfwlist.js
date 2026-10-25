@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-10-24 02:22:30
- * GFWList Last-Modified: 2026-10-23 10:29:54
+ * Generated: 2026-10-25 02:09:53
+ * GFWList Last-Modified: 2026-10-24 15:33:57
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -25,6 +25,7 @@ var rules = [
             "111666.best",
             "123av.com",
             "123av.me",
+            "123av.org",
             "12bet.com",
             "12vpn.com",
             "12vpn.net",
@@ -1069,6 +1070,7 @@ var rules = [
             "eromanga-kingdom.com",
             "eromangadouzin.com",
             "eromon.net",
+            "eroterest.net",
             "eslite.com",
             "esurance.com",
             "etherdelta.com",
@@ -2134,6 +2136,7 @@ var rules = [
             "kichiku-doujinko.com",
             "kik.com",
             "killwall.com",
+            "kimootoko.net",
             "kindle4rss.com",
             "kindleren.com",
             "kingdomsalvation.org",
@@ -2418,6 +2421,7 @@ var rules = [
             "minhhue.net",
             "miningpoolhub.com",
             "ministrybooks.org",
+            "minkch.com",
             "minzhuzhongguo.org",
             "miraheze.org",
             "mirdc.org.tw",
@@ -2617,6 +2621,9 @@ var rules = [
             "niu.moe",
             "niusnews.com",
             "njactb.org",
+            "njav.com",
+            "njav.tv",
+            "njavtv.com",
             "nlfreevpn.com",
             "nmsl.website",
             "nnews.eu",
@@ -2875,6 +2882,7 @@ var rules = [
             "plurk.com",
             "plus.codes",
             "pmatehunter.com",
+            "po-kaki-to.com",
             "po2b.com",
             "pocketcasts.com",
             "podbean.com",
@@ -4312,6 +4320,7 @@ var rules = [
             "zophar.net",
             "zorrovpn.com",
             "zozotown.com",
+            "zozovideo.com",
             "zpn.im",
             "zspeeder.me",
             "zuo.la",
