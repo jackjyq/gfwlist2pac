@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-10-31 03:06:46
- * GFWList Last-Modified: 2026-10-30 05:24:27
+ * Generated: 2026-11-01 03:01:21
+ * GFWList Last-Modified: 2026-10-31 05:12:41
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -3529,6 +3529,7 @@ var rules = [
             "thehun.net",
             "theinitium.com",
             "theintercept.com",
+            "themoviedb.org",
             "thenewslens.com",
             "thepiratebay.org",
             "theporndude.com",
@@ -3664,6 +3665,7 @@ var rules = [
             "torproject.org",
             "torrentgalaxy.to",
             "torrentkitty.tv",
+            "torrentleech.org",
             "torrentprivacy.com",
             "torrentproject.se",
             "torrenty.org",
@@ -4263,6 +4265,7 @@ var rules = [
             "youtubegaming.com",
             "youtubekids.com",
             "youversion.com",
+            "youversionapi.com",
             "youwin.com",
             "youxu.info",
             "yt.be",
