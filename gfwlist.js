@@ -1,7 +1,7 @@
 /**
  * genpac 2.1.0 https://github.com/JinnLynn/genpac
- * Generated: 2026-11-03 04:27:46
- * GFWList Last-Modified: 2026-10-31 05:12:41
+ * Generated: 2026-11-04 03:46:33
+ * GFWList Last-Modified: 2026-11-03 11:32:08
  * GFWList From: local[/home/runner/work/gfwlist2pac/gfwlist2pac/gfwlist/gfwlist.txt]
  */
 
@@ -402,6 +402,7 @@ var rules = [
             "bignews.org",
             "bigone.com",
             "bild.de",
+            "bilibili.tv",
             "bilinovel.com",
             "biliworld.com",
             "binance.com",
